@@ -21,6 +21,7 @@
  	It is used to generate a readme.md file that can be copy and pasted to your projects
 
   ![img](media-here\Capture.PNG)
+  
   ## Contributing
  	There is not much to contribute, but if you would like to make improvements you can always make a pull request!
   ## Testing
