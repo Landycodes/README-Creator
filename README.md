@@ -20,7 +20,7 @@
   ## Usage
  	It is used to generate a readme.md file that can be copy and pasted to your projects
 
-  ![img]([media-here\Capture.PNG](https://github.com/Landycodes/README-Creator/blob/main/media-here/Capture.PNG?raw=true))
+  ![img](https://github.com/Landycodes/README-Creator/blob/main/media-here/Capture.PNG?raw=true))
   
   ## Contributing
  	There is not much to contribute, but if you would like to make improvements you can always make a pull request!
