@@ -21,7 +21,7 @@
  It is used to generate a readme.md file that can be copy and pasted to your projects
 
   ![img](https://github.com/Landycodes/README-Creator/blob/main/media-here/Capture.PNG?raw=true)
-  [Click here for a demo!](https://drive.google.com/file/d/1Ec5An_ArmEv0n4bY-RHe1CPAWLD6Pn0r/preview)
+  [Click here for a demo!](https://user-images.githubusercontent.com/103873915/193000253-85893298-b3cc-4c93-a761-f237e4f4ff07.mp4)
   
   ## Contributing
  There is not much to contribute, but if you would like to make improvements you can always make a pull request!
