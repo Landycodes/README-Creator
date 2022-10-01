@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/)
 
   ## Description 
-   This is a command line application that generates a readme.md file with prompt inputs!
+   This is a command line application that generates a readme.md file with prompt inputs such as the one you are reading now!
  
 
   ## Table Of Contents
